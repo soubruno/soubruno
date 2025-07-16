@@ -8,15 +8,11 @@
 
 <h2 align="left">Sobre mim</h2>
 
-###
-
 <p align="left">📍 Sou do Rio de Janeiro, Brasil.<br>📚 Estudo no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ).<br>🎯 Meu objetivo é me tornar um desenvolvedor de sistemas profissional.<br>🎲 Gosto de tocar violão e sempre busco o equilíbrio.</p>
 
 ###
 
 <h2 align="left">Atualmente estudando</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -33,8 +29,6 @@
 ###
 
 <h2 align="left">Tecnologias que já utilizei em meus projetos</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -54,8 +48,6 @@
 
 <h2 align="left"></h2>
 
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soubruno&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -66,12 +58,11 @@
 
 ###
 
+<h4 align="left">Contato</h4>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/bruno-souza17/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-souza17"align="left">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="brunosantanasouza17@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
