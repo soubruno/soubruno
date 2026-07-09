@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Bruno Souza. <br>Sou desenvolvedor amador e foco em seguir as boas práticas de desenvolvimento para manter o código organizado, e com uma boa performance!</p>
+<p align="left">Meu nome é Bruno Souza. <br>Sou desenvolvedor amador e foco em seguir as boas práticas de desenvolvimento para manter o código organizado!</p>
 
 ###
 
