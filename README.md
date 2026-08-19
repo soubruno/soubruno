@@ -1,69 +1,86 @@
-<h1 align="left">Olá, seja bem-vindo!🙋🏻‍♂️</h1>
+# Olá, seja bem-vindo! 👋
 
-###
+Meu nome é Bruno Souza, estudante de Sistemas de Informação.
 
-<p align="left">Meu nome é Bruno Souza. <br>Sou desenvolvedor amador e foco em seguir as boas práticas de desenvolvimento para manter o código organizado!</p>
+---
 
-###
+### 📌 Sobre mim
 
-<h2 align="left">Sobre mim</h2>
+* 📍 Sou do Rio de Janeiro, Brasil.
+* 🎓 Estudo no **Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)**.
+* 🎯 Meu objetivo é me tornar um desenvolvedor de software profissional.
+* 🎸 Gosto de tocar violão e sempre busco o equilíbrio.
 
-<p align="left">📍 Sou do Rio de Janeiro, Brasil.<br>📚 Estudo no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ).<br>🎯 Meu objetivo é me tornar um desenvolvedor de sistemas profissional.<br>🎲 Gosto de tocar violão e sempre busco o equilíbrio.</p>
+---
 
-###
+### 💻 Projetos em Destaque
 
-<h2 align="left">Atualmente estudando</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🔍 DevInsight</h3>
+      <p align="left">
+        Extensão para o VS Code focada em análise de código inteligente e assistência técnica orientada por IA.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/AI%20Assistant-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Assistant" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/soubruno/devinsight" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🤸 Calistreet</h3>
+      <p align="left">
+        Plataforma completa para gestão e acompanhamento de evolução dos treinos na calistenia.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/soubruno/calistreet-api" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white" alt="Repositório" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-</div>
+---
 
-###
+### 🚀 Tecnologias & Habilidades
 
-<h2 align="left">Tecnologias que já utilizei em meus projetos</h2>
+#### 🛠️ Tecnologias que utilizo / já utilizei em projetos:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
+#### 📚 Atualmente estudando / Aprofundando:
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-###
+---
 
-<h2 align="left"></h2>
+### 📬 Contato & Redes
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soubruno&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Contato</h4>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/bruno-souza17"align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://linkedin.com/in/br-unosantana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-###
+</p>
